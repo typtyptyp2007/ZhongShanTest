@@ -32,7 +32,7 @@ namespace ZhongShanTest
         }
 
         /// <summary>
-        /// 取火柴操作
+        /// 取牙签操作
         /// </summary>
         /// <returns></returns>
         public bool TakeOutToothpick()
